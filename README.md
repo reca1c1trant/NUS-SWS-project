@@ -12,7 +12,7 @@ The repository for the 2024 NUS Summer Workshop (SWS3002) includes several key c
    This PowerPoint presentation is intended for the final report and presentation. 
 
 4. **`Model for Presenting.doe`**:
-   This is the Arena simulation model file.  Please check this file in conjunction with with `NUS Summer Workshop.pptx`.
+   This is the Arena simulation model file.  Please check this file in conjunction with `NUS Summer Workshop.pptx`.
 
 
 ### Contributors:
