@@ -8,7 +8,7 @@ The repository for the 2024 NUS Summer Workshop (SWS3002) includes several key c
 2. **`draw.ipynb`**:
    This notebook is designated for creating important visualizations for presentation. 
 
-3. **`NUS Summer Workshop.pptx`**:
+3. **`pptx`**:
    This PowerPoint presentation is intended for the final report and presentation. 
 
 4. **`Model for Presenting.doe`**:
